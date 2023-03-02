@@ -1,4 +1,4 @@
-# magento-model-creation
+# magento2-model-creation
 setup the basic environment 
 
 Name of the module is defined as “VendorName_ModuleName”. First part is name of the vendor and last part is name of the module:
